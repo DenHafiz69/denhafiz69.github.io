@@ -6,9 +6,7 @@ This is my personal website where I showcase my projects and share my thoughts o
 
 Here's a list of my projects that you can find on this website:
 
-- Project 1: Description of project 1
-- Project 2: Description of project 2
-- Project 3: Description of project 3
+- Project 1: Web-scraping mudah.my and analyze the rental price of apartments and studio in Kuala Lumpur
 
 ## About Me
 
