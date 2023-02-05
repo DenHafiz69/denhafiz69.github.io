@@ -16,7 +16,7 @@ I'm a physics graduate who is currently working full-time in a bank. I code in m
 
 ## Contact
 
-Feel free to contact me by email at [myemail@example.com](mailto:myemail@example.com) if you have any questions or comments about my projects or website.
+Feel free to contact me by email at [den.m.hafiz@gmail.com](mailto:den.m.hafiz@gmail.com) if you have any questions or comments about my projects or website.
 
 ## Thanks for visiting!
 
