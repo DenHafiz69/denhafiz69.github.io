@@ -2,3 +2,18 @@ header {
     margin-bottom: 20px;
 }
 
+html, body {
+    height: 100%;
+    margin: 0;
+    display: flex;
+    flex-direction: column;
+}
+
+main {
+    flex: 1;
+}
+
+.footer {
+    padding: 10px;
+    text-align: center;
+}
