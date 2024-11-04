@@ -17,3 +17,12 @@ main {
     padding: 10px;
     text-align: center;
 }
+
+.about-text {
+    text-indent: 2em;
+}
+
+.page-title {
+    font-size: larger;
+    font-family: serif;
+}
