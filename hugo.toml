@@ -1,3 +1,6 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://denhafiz69.github.io/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'Den Hafiz Portfolio'
+theme = 'PaperMod'
+
+publishDir = 'docs'
