@@ -12,8 +12,8 @@ To run this site locally, you'll need to have [Hugo installed](https://gohugo.io
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/YourUsername/YourRepoName.git](https://github.com/YourUsername/YourRepoName.git)
-    cd YourRepoName
+    git clone https://github.com/DenHafiz69/denhafiz69.github.io.git
+    cd denhafiz69.github.io
     ```
 
 2.  **Update the theme submodule (if you just cloned):**
