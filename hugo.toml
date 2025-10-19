@@ -4,3 +4,14 @@ title = 'Den Hafiz Portfolio'
 theme = 'PaperMod'
 
 publishDir = 'docs'
+
+[menu]
+  [[menu.main]]
+    name = "Home"
+    url = "/"
+    weight = 10
+
+  [[menu.main]]
+    name = "About"
+    url = "/about"
+    weight = 20
