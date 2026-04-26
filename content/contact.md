@@ -3,8 +3,6 @@ draft = false
 title = 'Contact'
 +++
 
-# Let's Connect
-
 I'm always open to discussing new projects, creative ideas, or opportunities to collaborate.
 
 Here are some ways to reach me:
