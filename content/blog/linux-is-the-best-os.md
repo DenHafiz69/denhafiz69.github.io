@@ -62,7 +62,7 @@ Essentially, Linux is the ultimate DIY operating system. You have the permission
 
 ## Conclusion
 
-So, there you have it. Whether it's the community-driven power of open source, the fact that it can breathe new life into an old laptop with its incredible performance, or the peace of mind you get from actual privacy, Linux is just in a league of its own. When you factor in that it costs absolutely nothing and grants you those four fundamental digital freedoms to truly own your software, the choice becomes pretty clear. Stop letting big tech companies dictate how you use your own hardware. It’s time to take the plunge, reclaim your digital life, and join the Linux revolution.
+So, there you have it. Whether it's the community-driven power of open source, the fact that it can breathe new life into an old laptop with its incredible performance, or the peace of mind you get from actual privacy, Linux is just in a league of its own. When you factor in that it costs absolutely nothing and grants you those four fundamental digital freedoms to truly own your software, the choice becomes pretty clear. Stop letting big tech companies dictate how you use your own hardware. It’s time to take the plunge, reclaim your digital life, and [join the Linux revolution](https://www.linux.org/pages/download/).
 
 
 [^1]: Opensource Statistics | Fact-Checked 2026. (2026). Worldmetrics.org. https://worldmetrics.org/opensource-statistics/
