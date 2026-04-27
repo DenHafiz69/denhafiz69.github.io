@@ -1,15 +1,9 @@
 +++
-title = "Contact"
-description = "I'm always open to discussing new projects, creative ideas, or opportunities to collaborate."
+title = "Get in Touch"
+description = "I'm always open to discussing new projects, creative ideas, or opportunities to collaborate. Feel free to reach out through any of the platforms below!"
 keywords = ["contact", "Den Hafiz", "reach out", "collaboration"]
 draft = false
 +++
-
-# Get in Touch
-
-I'm always open to discussing new projects, creative ideas, or opportunities to collaborate. Feel free to reach out through any of the platforms below!
-
----
 
 ### 📫 Connect with Me
 
@@ -18,7 +12,6 @@ I'm always open to discussing new projects, creative ideas, or opportunities to 
 |**Email** | [den.m.hafiz@gmail.com](mailto:den.m.hafiz@gmail.com) |
 |**LinkedIn** | [Den Hafiz](https://www.linkedin.com/in/denhafiz69/) |
 |**GitHub** | [@DenHafiz69](https://github.com/DenHafiz69) |
-|**Telegram** | [@denhafiz69](https://t.me/denhafiz69) |
 
 ---
 

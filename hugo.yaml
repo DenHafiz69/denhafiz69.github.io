@@ -7,6 +7,7 @@ publishDir: public
 params:
     # Set this to a folder that doesn't exist to "empty" the list
     mainSections: ["nothing"]
+    favicon: "/favicon.ico"
 
 menu:
   main:

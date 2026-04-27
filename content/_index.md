@@ -24,11 +24,11 @@ Incident Engineer and M.Sc. graduate specializing in High-Availability systems a
 **DevOps & Operations:** 
 * CI/CD Pipelines, Incident Management, Automated Workflows, PagerDuty, Jira, Git/GitHub.
 
-**Monitoring & Logging:** 
-* Grafana, Databricks, Airflow, CloudWatch (Concepts), ELK Stack (Concepts).
+<!-- **Monitoring & Logging:** 
+* Grafana, Databricks, Airflow, CloudWatch (Concepts), ELK Stack (Concepts). -->
 
 **Programming & OS:** 
-* Python (Pandas, NumPy), Shell Scripting (Bash), SQL/MySQL, Linux Administration (Arch Linux, CentOS, Ubuntu, Redhat).
+* Python (Pandas, NumPy), Shell Scripting (Bash), SQL/MySQL, Linux Administration (Arch Linux, Ubuntu, Debian).
 
 ---
 
