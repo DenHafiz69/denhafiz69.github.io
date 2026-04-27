@@ -1,8 +1,10 @@
-baseURL: https://denhafiz69.github.io/
+baseURL: https://denhafiz.my/
 languageCode: en-us
 title: Den Hafiz Portfolio
 theme: PaperMod
 publishDir: public
+
+
 
 menu:
   main:
