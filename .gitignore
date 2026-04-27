@@ -1,9 +1,8 @@
-# Hugo
-/resources/
-
-# OS
-.DS_Store
-Thumbs.db
-
-# Hugo generated files
+# Generated files by hugo
 /public/
+/resources/_gen/
+/assets/jsconfig.json
+hugo_stats.json
+
+# Temporary lock file while building
+/.hugo_build.lock
