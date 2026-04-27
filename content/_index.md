@@ -6,22 +6,29 @@ title = 'Welcome to My Portfolio'
 
 # Den Hafiz
 
-Kuala Lumpur, 50300 | +013 924 5394 | [den.m.hafiz@gmail.com](mailto:den.m.hafiz@gmail.com) | [LinkedIn](https://www.linkedin.com/in/denhafiz69/)
+Kuala Lumpur, 50300 | [den.m.hafiz@gmail.com](mailto:den.m.hafiz@gmail.com) | [LinkedIn](https://www.linkedin.com/in/denhafiz69/)
 
 ---
 
 ## 🎯 Professional Summary
 
+Incident Engineer and M.Sc. graduate specializing in High-Availability systems and cloud automation. Proven track record in stabilizing production environments, achieving a 90% reduction in incidents (1,000+ to <100). Skilled in Python, Linux, CI/CD, and cloud technologies (AWS, Docker, IaC). Seeking a Junior/Mid-Level DevOps or Cloud Engineer role to apply expertise in system stability and automation.
+
 ----
 
 ## 🛠️ Skills
 
-**Programming Languages:**
-* Python
-* Go
+**Cloud & Infrastructure:** 
+* AWS (Fundamentals), Docker, Kubernetes (Concepts), Infrastructure as Code (IaC) (Terraform, Ansible), Tailscale.
 
-**Frameworks & Libraries:**
-* Python: Tensorflow, Numpy, Telegram
+**DevOps & Operations:** 
+* CI/CD Pipelines, Incident Management, Automated Workflows, PagerDuty, Jira, Git/GitHub.
+
+**Monitoring & Logging:** 
+* Grafana, Databricks, Airflow, CloudWatch (Concepts), ELK Stack (Concepts).
+
+**Programming & OS:** 
+* Python (Pandas, NumPy), Shell Scripting (Bash), SQL/MySQL, Linux Administration (Arch Linux, CentOS, Ubuntu, Redhat).
 
 ---
 
@@ -30,15 +37,17 @@ Kuala Lumpur, 50300 | +013 924 5394 | [den.m.hafiz@gmail.com](mailto:den.m.hafiz
 **Incident Engineer** | **Wevision LLC** | Kuala Lumpur
 *(April 2025 - Present)*
 
-* Monitor and maintain large-scale data pipelines and cloud-based systems using Databricks, Grafana, and Airflow.
-* Respond to PagerDuty alerts, diagnose system failures, and resolve incidents efficiently.
-* Collaborated with data and engineering teams to optimize monitoring dashboards and reduce downtime.
+* Optimized production stability and monitoring, achieving a 90% drop in monthly incidents (1,000+ to <100).
+* Delivered Tier-1/2 SRE support for enterprise data pipelines, maintaining integrity and throughput.
+* Resolved backend bottlenecks and data issues using Grafana and Bash for root cause analysis in global environments.
+* Partnered with engineers to minimize downtime and streamline alert efficiency.
+
 
 **Contract Officer** | **United Overseas Bank (UOB)** | Petaling Jaya
 *(November 2022 - March 2023)*
 
-* Supported operational processes, including data validation and reporting.
-* Worked cross-functionally to troubleshoot workflow bottlenecks
+* Managed banking operations and ensured data accuracy within a strictly regulated environment.
+* Supported IT and operational processes, coordinating with internal teams to troubleshoot and resolve process-related issues.
 
 ---
 
@@ -46,15 +55,11 @@ Kuala Lumpur, 50300 | +013 924 5394 | [den.m.hafiz@gmail.com](mailto:den.m.hafiz
 
 **Master of Science (Physics)** | International Islamic University Malaysia
 *(March 2023 - March 2025)*
-
-* Thesis: Development and Application of Deep Adversarial Model in Pneumonia Imaging
-* Focus: Neural Networks, dataset preprocessing, transfer learning, image classification, results visualization
+* Focus: Computational modeling and analysis of complex systems. Thesis on Adversarial Machine Learning, involving the development and robustness testing of Deep Neural Network architectures.
 
 **Bachelor of Science (Physics)(Hons.)** | International Islamic University Malaysia
 *(September 2018 - August 2022)*
-
 * CGPA: 3.60/4.00
-* Key courses: Quantum Mechanics, Statistical Physics, Machine Learning, Data Analysis
 
 ---
 
@@ -63,12 +68,3 @@ Kuala Lumpur, 50300 | +013 924 5394 | [den.m.hafiz@gmail.com](mailto:den.m.hafiz
 **Expentrax: A Finance Manager Telegram Bot**
 
 * Tech used: Python, SQLite with SQLAlchemy, python-telegram-bot library to interact with the Telegram API
-
-**IEEE Symposium on Wireless Technology & Applications (ISWTA 2024)**
-
-* Presented research paper titled "Balancing Efficiency and Effectiveness: Adversarial Example Generation in Pneumonia Detection".
-
-**IIUM Research & Innovation Day (IRID) 2024**
-
-* Presented poster on "The impact of learning rate on pneumonia classification in chest radiographs," comparing learning rate tuning mechanisms.
- 
