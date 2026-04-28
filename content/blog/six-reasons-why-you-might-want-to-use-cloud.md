@@ -16,3 +16,24 @@ You are reading this on a computer, whether a handheld device or a PC. This site
 Earlier today, I asked an AI chatbot how to remember the six advantages as outlined by AWS [here](https://docs.aws.amazon.com/whitepapers/latest/aws-overview/six-advantages-of-cloud-computing.html). The bot suggested using an acronym G.E.T.S.S.S., or just remember if you learn cloud today, you can GET$$$. This is a good way to remember it, but the downside is that the advantages are not in the same order as provided in the official documentation, which probably does not matter too much.
 
 ### Go Global in Minutes
+
+As noted, all internet content resides on physical servers. Cloud providers like AWS maintain global data center networks, enabling worldwide accessibility. By leveraging this infrastructure, you can deploy applications across various geographic regions to ensure low-latency user experiences. Instead of managing your own international data centers, you can simply select preferred regions and go global in minutes.
+
+### Economies of Scale
+
+If you've ever bought something in bulk, you know it's cheaper per unit. Cloud providers like AWS operate on a massive scale, serving millions of customers. This massive scale translates into lower prices for us, the users, because AWS can buy hardware and run infrastructure far more efficiently than any single company could on its own.
+
+### Trade Capital Expense for Variable Expense
+
+Remember the days of buying expensive servers upfront (Capital Expense or CapEx)? With the cloud, those days are over. Now, you only pay for what you use, when you use it (Variable Expense or OpEx). It’s like switching from buying a car to using a ride-sharing service, much less commitment!
+### Stop Guessing Capacity
+
+One of the biggest headaches when running your own servers is figuring out how much capacity you need. Guess too high, and you waste money. Guess too low, and your site crashes under heavy traffic (a bad day for cat videos!). Cloud computing lets you scale up and down automatically. You never have to worry about running out of resources or paying for idle ones.
+
+### Speed and Agility
+
+Speed is everything in tech. When you're on the cloud, you can spin up new resources, servers, databases, network components, in minutes. This allows you to experiment, innovate, and deploy new features faster than ever. It gives you the agility to react quickly to market changes and user demands.
+
+### Stop Spending Money Running and Maintaing Data Centres
+
+This one is pretty straightforward. By using the cloud, you don’t have to spend money on physical infrastructure, the electricity to run it, or the staff to maintain it. It frees up your time and money to focus on what actually drives your business, which is definitely not changing server fans.
