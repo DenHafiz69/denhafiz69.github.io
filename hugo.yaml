@@ -1,7 +1,7 @@
 baseURL: https://denhafiz.my/
 languageCode: en-us
 title: Den Hafiz Portfolio
-theme: PaperMod
+theme: mana
 publishDir: public
 
 params:
