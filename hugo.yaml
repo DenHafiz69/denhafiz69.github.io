@@ -36,6 +36,10 @@ params:
       startYear: 2026
       owner: Den Hafiz
 
+outputs:
+  home:
+    - HTML
+    - JSON
 
 menu:
   main:
