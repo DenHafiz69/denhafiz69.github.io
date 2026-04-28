@@ -7,7 +7,7 @@ The main branch contains all the Hugo source files, and the compiled static site
 ## 🚀 Live Site
 
 The portfolio is live and accessible here:
-**[View Den Hafiz's Portfolio](https:denhafiz.my)**
+**[https://denhafiz.my/](https://denhafiz.my/)**
 
 ---
 
