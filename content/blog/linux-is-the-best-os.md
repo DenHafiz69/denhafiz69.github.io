@@ -2,6 +2,7 @@
 date = '2026-04-27T15:20:52+08:00'
 draft = false
 title = 'Linux is the Best OS'
+tags = ["linux", "informational"]
 +++
 
 ## Operating System (OS)
