@@ -1,12 +1,12 @@
 baseURL: https://denhafiz.my/
-languageCode: en-us
+locale: en-us
 title: Den Hafiz's Website
 theme: mana
 publishDir: public
 
 params:
     # Set this to a folder that doesn't exist to "empty" the list
-    mainSections: ["nothing"]
+    # mainSections: ["nothing"]
     favicon: "/favicon.ico"
     enableIntegrity: false
     relatedPostsCount: 1
@@ -25,6 +25,12 @@ params:
       home:
         assetPath: "/images/avatar.png"
 
+    search: 
+      enabled: true
+  
+  # If you want to customize what is searchable
+  # (Matches the logic in the index.json we fixed earlier)
+    mainSections: ["blog", "projects"]
 
     copyright:
       startYear: 2026
@@ -33,6 +39,7 @@ params:
 outputs:
   home:
     - HTML
+    - RSS
     - JSON
 
 menu:
