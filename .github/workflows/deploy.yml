@@ -17,7 +17,10 @@ jobs:
           hugo-version: 'latest'
 
       - name: Checkout
-        uses: actions/checkout@v4
+        uses: actions/checkout@v6
+        with:
+          submodules: recursive
+          fetch-depth: 0
       
       - name: Build with Hugo
         run: hugo --gc --minify
@@ -30,7 +33,7 @@ jobs:
           aws-secret-access-key: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
 
       - name: Copy to S3
-        run: aws s3 sync ./public/. s3://denhafiz.my --delete
+        run: aws s3 sync public/ s3://denhafiz.my --delete
 
 
 
