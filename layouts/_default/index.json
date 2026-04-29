@@ -1,0 +1,32 @@
+{
+  {- $index := slice -
+  }
+}
+{
+  {- range site.RegularPages -
+  }
+}
+  {
+  {- if or (eq .Type "posts") (eq .Type "blog") (eq .Type "projects") -
+  }
+}
+    {
+  {- $entry := dict "title" .Title "permalink" .RelPermalink "summary" (.Summary | plainify | truncate 200 "date" (.Date.Format "2006-01-02") "tags" (.Params.tags | default slice) "content" (.Plain | truncate 500) -
+  }
+}
+    {
+  {- $index = $index | append $entry -
+  }
+}
+  {
+  {- end -
+  }
+}
+{
+  {- end -
+  }
+}
+{
+  {- $index | jsonify -
+  }
+}
